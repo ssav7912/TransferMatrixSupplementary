@@ -1,4 +1,4 @@
-#Realtime Transfer Matrix Layered Materials
+# Realtime Transfer Matrix Layered Materials
 
 This repository contains the final thesis, presentation slides and supplementary material generated during research, such as notebooks for algorithm development and analysis.
 
